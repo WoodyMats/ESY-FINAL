@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ESY</string>
+    <string-array name="exams_array">
+        <item>Εξέταση αίματος</item>
+        <item>Εξέταση ούρων</item>
+        <item>Μαγνητική εξέταση</item>
+        <item>Αξονική εξέταση</item>
+        <item>Ακτινογραφία</item>
+        <item>Οφθαλμολογική εξέταση</item>
+    </string-array>
+
+</resources>
